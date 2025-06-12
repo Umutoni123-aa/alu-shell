@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$WATER$STIR" | tr 'ewatr.is' 'shtbeloc'
+echo "$WATER$STIR" | tr 'ewatrsil.' 'shtbcelho'
