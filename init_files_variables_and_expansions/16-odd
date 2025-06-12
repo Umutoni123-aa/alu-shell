@@ -1,0 +1,2 @@
+#!/bin/bash
+nl -ba -v1 | grep -E '^[[:space:]]*[0-9]*[13579][[:space:]]' | cut -f2-
