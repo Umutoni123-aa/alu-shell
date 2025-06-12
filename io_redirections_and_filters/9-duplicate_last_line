@@ -1,9 +1,2 @@
 #!/bin/bash
-
-# Check if the file 'iacta' exists
-if [ ! -f iacta ]; then
-    echo "Error: File 'iacta' not found in the current directory." >&2 # Redirect error to stderr
-    exit 1
-fi
 tail -n 1 iacta >> iacta
-cat iacta
