@@ -1,4 +1,4 @@
-#!/usr/bin/env/env bash
+#!/usr/bin/env bash
 # Indefinitely writes "I am alive!" to /tmp/my_process
 while true; do
 	echo "I am alive!" > /tmp/my_process
